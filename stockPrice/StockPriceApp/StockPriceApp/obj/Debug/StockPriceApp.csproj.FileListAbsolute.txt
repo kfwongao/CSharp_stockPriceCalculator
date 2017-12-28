@@ -1,0 +1,9 @@
+D:\stockPrice\StockPriceApp\StockPriceApp\bin\Debug\StockPriceApp.exe.config
+D:\stockPrice\StockPriceApp\StockPriceApp\bin\Debug\StockPriceApp.exe
+D:\stockPrice\StockPriceApp\StockPriceApp\bin\Debug\StockPriceApp.pdb
+D:\stockPrice\StockPriceApp\StockPriceApp\obj\Debug\StockPriceApp.csprojResolveAssemblyReference.cache
+D:\stockPrice\StockPriceApp\StockPriceApp\obj\Debug\StockPriceApp.Form1.resources
+D:\stockPrice\StockPriceApp\StockPriceApp\obj\Debug\StockPriceApp.Properties.Resources.resources
+D:\stockPrice\StockPriceApp\StockPriceApp\obj\Debug\StockPriceApp.csproj.GenerateResource.Cache
+D:\stockPrice\StockPriceApp\StockPriceApp\obj\Debug\StockPriceApp.exe
+D:\stockPrice\StockPriceApp\StockPriceApp\obj\Debug\StockPriceApp.pdb
